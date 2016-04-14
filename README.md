@@ -2,6 +2,8 @@
 
 please refer to http://projects.spring.io/spring-data-rest/
 
+and refer to Best Practice of Spring.docx in https://github.com/qizhonglin/doc.git
+
 ## Build & development
 
 start mongodb server
