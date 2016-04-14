@@ -5,8 +5,8 @@ please refer to http://projects.spring.io/spring-data-rest/
 ## Build & development
 
 start mongodb server
->`mongod -dbpath ./data
->`run Application.java`
+`mongod -dbpath ./data
+`run Application.java`
 
 ## Client Access
 1. use Chrome App: Postman 
